@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/karstensolomonraj](https://github.com/karstensolomonraj)
 
-- 💬 Ask me about **Java,Python**
+- 💬 Ask me about **Java**
 
 - 📫 How to reach me **karstenoffl@gmail.com**
 
